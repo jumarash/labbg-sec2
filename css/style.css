@@ -1,0 +1,27 @@
+body{
+
+    background-color: rgb(red, green, blue);
+  
+}
+    
+.colour {
+    background-color: gray;
+    width: 15em;
+    height: auto;
+   
+    margin: 10em auto;
+   text-align: center;
+  
+
+}
+.randomCol{
+
+    margin: 10em auto;
+    margin-left: 50em;
+
+
+
+
+   
+
+}
